@@ -6,4 +6,6 @@ This little ruby script converts the [m3u from archive.org](https://archive.org/
 $ ruby m3rss.rb > rss.xml
 ```
 
-The put that rss.xml feed somewhere your podcast app can reach it.
+Put that rss.xml feed somewhere your podcast app can reach it.
+
+Here's one I prepared earlier on [dropbox](https://www.dropbox.com/s/29agyateefffm2h/rss.xml?dl=1). The feed never updates, so feel free to put your feed reader into manual update mode.
